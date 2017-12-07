@@ -1,0 +1,17 @@
+It doesn't matter what characters are on the line or how long it is.
+!@#$%^&* (even if there are special characters)
+really, don't go overthinking this one.
+I'm sure your code can sort them all.
+some lines are the same length A
+some lines are the same length C
+some lines are the same length B
+  Some lines have white space
+1234 some have numbers
+A test of your code.
+some even were blank
+some are lowercase
+This is a test.
+Only a test.
+
+
+
